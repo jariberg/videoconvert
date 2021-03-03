@@ -1,5 +1,5 @@
 {
-  "name": "videoconvert",
+  "name": "@jariberg/videoconvert",
   "version": "0.0.1",
   "description": "video convert using fluent ffmpeg",
   "main": "convert.js",
